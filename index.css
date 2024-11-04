@@ -5,3 +5,7 @@ main {
 body {
   font-family: "Outfit", serif;
 }
+
+.left-side {
+  background-color: hsl(241, 81%, 54%);
+}
