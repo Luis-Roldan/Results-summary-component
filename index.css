@@ -14,5 +14,6 @@ body {
 
 .right-side {
   background-color: grey;
-
+  color: white;
+  padding: 10px;
 }
