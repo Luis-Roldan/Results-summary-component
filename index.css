@@ -9,4 +9,5 @@ body {
 .left-side {
   background-color: hsl(241, 81%, 54%);
   color: white;
+  padding: 10px;
 }
