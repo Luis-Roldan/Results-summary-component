@@ -17,6 +17,7 @@ body {
   padding: 10px;
   text-align: center;
   border-radius: 20px;
+  width: 50%;
 }
 
 .right-side {
@@ -24,5 +25,5 @@ body {
   color: white;
   padding: 10px;
   text-align: start;
-
+  width: 50%;
 }
