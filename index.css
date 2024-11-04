@@ -21,9 +21,10 @@ body {
 }
 
 .right-side {
-  background-color: grey;
-  color: white;
+  color: black;
   padding: 10px;
   text-align: start;
   width: 50%;
+  border-radius: 0 20px 20px 0 ;
+
 }
