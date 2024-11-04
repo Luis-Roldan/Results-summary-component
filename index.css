@@ -28,3 +28,14 @@ body {
   border-radius: 0 20px 20px 0 ;
 
 }
+
+.circle {
+  border-radius: 50%;
+  width: 100px;           /* Establece el ancho */
+  height: 100px;
+  background-color: aliceblue;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  color: black;
+}
