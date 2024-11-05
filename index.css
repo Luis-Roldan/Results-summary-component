@@ -45,4 +45,7 @@ body {
 
 button {
   border-radius: 30px;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
