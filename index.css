@@ -42,3 +42,7 @@ body {
   padding: 10px;
   color: black;
 }
+
+button {
+  border-radius: 30px;
+}
