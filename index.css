@@ -34,7 +34,7 @@ body {
 
 .circle {
   border-radius: 50%;
-  width: 100px;           /* Establece el ancho */
+  width: 100px;
   height: 100px;
   background-color: aliceblue;
   margin-left: auto;
