@@ -62,3 +62,13 @@ button {
   color: white;
   border: none;
 }
+
+.type {
+  display: flex;
+  flex-direction: row;
+}
+
+.quantity {
+  display: flex;
+  flex-direction: row;
+}
