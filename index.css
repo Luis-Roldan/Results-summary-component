@@ -1,3 +1,13 @@
+header {
+  margin-top: 10vh;
+
+}
+
+header, footer, main{
+  text-align: center;
+  margin-bottom: 10vh;
+}
+
 main {
   display: flex;
   border: 1px solid black;
