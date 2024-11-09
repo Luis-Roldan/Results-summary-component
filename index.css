@@ -84,6 +84,11 @@ button {
 .bg-color-3 {
   background-color: #f2fafa;
 }
+
+.bg-color-4 {
+  background-color: #f2f3fa;
+}
+
 .quantity {
   display: flex;
   flex-direction: row;
