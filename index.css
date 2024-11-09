@@ -73,6 +73,14 @@ button {
   padding-right: 10px;
 }
 
+.bg-color-1 {
+  background-color: #fff5f5;
+}
+
+.bg-color-2 {
+  background-color: #fffbf2;
+}
+
 .quantity {
   display: flex;
   flex-direction: row;
