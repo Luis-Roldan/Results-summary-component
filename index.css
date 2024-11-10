@@ -31,6 +31,7 @@ body {
 
 .inner {
   margin: 30px;
+
 }
 
 .right-side {
@@ -93,4 +94,10 @@ button {
   display: flex;
   flex-direction: row;
   gap: 5px;
+}
+
+.gap {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
