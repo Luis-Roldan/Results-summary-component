@@ -54,6 +54,11 @@ body {
   color: black;
 }
 
+.circle-number {
+  font-weight: 500;
+  font-size: 70px;
+}
+
 button {
   border-radius: 30px;
   width: 100%;
