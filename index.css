@@ -93,6 +93,18 @@ button {
   color: hsl(0, 100%, 67%);
 }
 
+.color-b {
+  color: hsl(39, 100%, 56%);
+}
+
+.color-c {
+  color: hsl(0, 100%, 67%);
+}
+
+.color-d {
+  color: hsl(0, 100%, 67%);
+}
+
 .bg-color-2 {
   background-color: #fffbf2;
 }
