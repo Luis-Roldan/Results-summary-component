@@ -86,6 +86,11 @@ button {
 
 .bg-color-1 {
   background-color: #fff5f5;
+
+}
+
+.color-a {
+  color: hsl(0, 100%, 67%);
 }
 
 .bg-color-2 {
