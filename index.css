@@ -48,11 +48,10 @@ body {
   width: 200px;
   height: 200px;
   background: linear-gradient(to bottom,hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0)) ;
-
   margin-left: auto;
   margin-right: auto;
   padding: 10px;
-  color: black;
+  color: white;
   display: flex;
   flex-direction: column;
 
