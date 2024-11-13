@@ -142,3 +142,7 @@ button {
 .p {
   padding: 20%;
 }
+
+.title-left {
+  font-size: larger;
+}
