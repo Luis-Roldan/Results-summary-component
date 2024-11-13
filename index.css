@@ -145,4 +145,6 @@ button {
 
 .title-left {
   font-size: larger;
+  color: hsl(241, 100%, 89%);
+  font-weight: 500;
 }
