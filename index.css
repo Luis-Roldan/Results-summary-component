@@ -72,6 +72,8 @@ button {
   background-color: #303b59;
   color: white;
   border: none;
+  font-size: medium;
+  font-weight: 500;
 }
 
 .type {
