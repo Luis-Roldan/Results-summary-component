@@ -137,5 +137,8 @@ button {
   flex-direction: column;
   gap: 40px;
   padding-top: 30px;
+}
 
+.p {
+  padding: 10%;
 }
