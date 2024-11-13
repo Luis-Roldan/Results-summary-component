@@ -142,7 +142,7 @@ button {
 }
 
 .p {
-  padding: 20%;
+  padding: 0;
 }
 
 .title-left {
@@ -153,4 +153,8 @@ button {
 
 .numb-down-circle {
   color: hsl(241, 100%, 89%);
+}
+
+.subtitle-left {
+  font-size: xx-large;
 }
