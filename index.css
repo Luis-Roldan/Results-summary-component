@@ -143,6 +143,8 @@ button {
 
 .p {
   padding: 0;
+  color: hsl(241, 100%, 89%);
+
 }
 
 .title-left {
